@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Node
+frontend/node_modules/
+frontend/.next/
+
+# Environment
+.env
+
+# Data
+backend/data/
+backend/*.db

@@ -1,0 +1,8 @@
+Delivery and refund policy
+
+1. Delivery delays longer than 48 hours beyond the expected delivery window may qualify for a follow-up review.
+2. Orders in the "DELAYED" state with confirmed carrier notices are eligible for customer notification and case creation.
+3. Refunds may be approved only when the order remains delayed, the issue is documented, and the customer has not already received the package.
+4. High-value orders or repeated delays require manager approval before issuing a refund.
+5. Customer communications must reference the carrier update and expected resolution time.
+6. All recommendations must cite the order status, tracking evidence, and policy section used.
